@@ -1,6 +1,6 @@
 title: My Personal CTF Wiki
 description: My Personal CTF Wiki
-author: null||zero
+author: nullorzero
 github: https://github.com/nullorzerosec
 about: I am a Computer Science student. Currently doing more in Sec, focused in Python and C. In love with fuzzing and pentesting.
 #disqus_shortname: mypersonalCTFwiki
@@ -30,7 +30,7 @@ social:
       link: "https://github.com/nullorzerosec"
 
 share:
-  twitter_username: "null||zero"
+  twitter_username: "nullorzero"
 
 urls:
     - text: About Me
