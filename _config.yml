@@ -1,0 +1,56 @@
+title: My Personal CTF Wiki
+description: My Personal CTF Wiki
+author: null||zero
+github: https://github.com/nullorzerosec
+about: I am a Computer Science student. Currently doing more in Sec, focused in Python and C. In love with fuzzing and pentesting.
+#disqus_shortname: mypersonalCTFwiki
+#look into default pages for google analytics
+#google_analytics:  #https
+
+avatar_url: /static/img/privateinvestocat.jpg
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+#    - icon: fa-facebook
+#      link: "#"
+    - icon: fa-twitter
+      link: "https://twitter.com/nullorzerosec"
+#    - icon: fa-linkedin
+#      link: ""
+#    - icon: fa-stack-exchange
+#      link: "#"
+    - icon: fa-github
+      link: "https://github.com/nullorzerosec"
+
+share:
+  twitter_username: "null||zero"
+
+urls:
+    - text: About Me
+      url: /about/
+#    - text: My Projects
+#      url: /projects/
+#    - text: XML Feed
+#      url: /feed.xml
+
+url: "https://nullorzero.com"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
