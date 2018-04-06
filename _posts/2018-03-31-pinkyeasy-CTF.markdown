@@ -97,7 +97,7 @@ Well, I was stuck here for a quite long time and [dirbusted] the page with every
 
 
 There is a hidden directory `/portal_login/` I was not able to find.
-Unfortunately this write-up does not explain how the directory could/should be found - just that it exists - without any hint. That is pretty disappointing but lets continue. (If you have any idea, feel free so send me an email: nullorzero.sec[at]me.com)
+Unfortunately this write-up does not explain how the directory could/should be found - just that it exists - without any hint. That is pretty disappointing but lets continue. (If you have any idea, feel free so send me an email: nullorzero.sec@gmail.com)
 
 
 At address `http://192.168.0.11/portal_login/` the following login screen appears:
