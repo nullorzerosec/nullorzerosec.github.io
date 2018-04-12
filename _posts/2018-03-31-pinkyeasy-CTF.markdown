@@ -7,7 +7,7 @@ categories: [ctf]
 
 This VM is part of a series and was provided by Pink_P4nther at [pinkysplanet]. \\
 Other VMs of this series can be downloaded from [VulnHub] too.\\
-Go check them out - there`re awesome!
+Go check them out - they are awesome!
 
 # Enumeration
 As we boot the VM in `bridged mode` there is an output on the console which shows us the IP address of the VM:`192.168.0.11`. \\
